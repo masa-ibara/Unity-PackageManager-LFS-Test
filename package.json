@@ -1,0 +1,8 @@
+{
+  "author": "MSA_i",
+  "name": "com.msa-i.lfs-test",
+  "version": "0.0.1",
+  "displayName": "Test Package by MSA_i",
+  "unity": "2019.4",
+  "type": "library"
+}
